@@ -1,0 +1,2 @@
+*{margin:0;padding:0}*,:after,:before{box-sizing:border-box}#root,.page,.person-info,.person-skills,.person-works,body,html{height:100%;width:100%}#root{overflow:hidden}.page{transition:all 1s}.person-info{background:red}.person-works{background:blue}.person-skills{background:#ff0}
+/*# sourceMappingURL=style.css.map*/

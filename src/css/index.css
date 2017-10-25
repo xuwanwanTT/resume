@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,body,#root,.page,.person-info,.person-works,.person-skills {
+  height: 100%;
+  width: 100%;
+}
+
+#root {
+  overflow: hidden;
+}
+
+.page {
+  transition: all 1s;
+}
+
+.person-info {
+  background: red;
+}
+
+.person-works {
+  background: blue;
+}
+
+.person-skills {
+  background: yellow;
+}
